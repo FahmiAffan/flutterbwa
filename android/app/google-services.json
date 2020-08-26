@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "812921614967",
+    "firebase_url": "https://bluemagenta-45a6f.firebaseio.com",
+    "project_id": "bluemagenta-45a6f",
+    "storage_bucket": "bluemagenta-45a6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812921614967:android:de1f582066b4b57ffc0c72",
+        "android_client_info": {
+          "package_name": "com.example.bluemagenta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812921614967-vtjpb9lfspei4qjiv851qvou45cc3r82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeKwa50vbKBr2amWxei-x3ILg-FgXrSik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812921614967-vtjpb9lfspei4qjiv851qvou45cc3r82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
